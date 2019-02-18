@@ -1,0 +1,132 @@
+{
+    "countries": [
+        {
+            "code": "+7 840",
+            "name": "New England"
+        },
+        {
+            "code": "+93",
+            "name": "New York Jets"
+        },
+        {
+            "code": "+355",
+            "name": "Buffalo"
+        },
+        {
+            "code": "+213",
+            "name": "Miami"
+        },
+        {
+            "code": "+1 684",
+            "name": "Cincinnati"
+        },
+        {
+            "code": "+376",
+            "name": "Pittsburgh"
+        },
+        {
+            "code": "+244",
+            "name": "Baltimore"
+        },
+        {
+            "code": "+1 264",
+            "name": "Cleveland"
+        },
+        {
+            "code": "+1 268",
+            "name": "Houston"
+        },
+        {
+            "code": "+54",
+            "name": "Indianapolis"
+        },
+        {
+            "code": "+374",
+            "name": "Jacksonville"
+        },
+        {
+            "code": "+297",
+            "name": "Tennessee"
+        },
+        {
+            "code": "+247",
+            "name": "Denver"
+        },
+        {
+            "code": "+61",
+            "name": "Kansas City"
+        },
+        {
+            "code": "+672",
+            "name": "Oakland"
+        },
+        {
+            "code": "+43",
+            "name": "San Diego"
+        },
+        {
+            "code": "+994",
+            "name": "Washington"
+        },
+        {
+            "code": "+1 242",
+            "name": "Philadelphia"
+        },
+        {
+            "code": "+973",
+            "name": "New York Giants"
+        },
+        {
+            "code": "+880",
+            "name": "Dallas"
+        },
+        {
+            "code": "+1 246",
+            "name": "Minnesota"
+        },
+        {
+            "code": "+1 268",
+            "name": "Green Bay"
+        },
+        {
+            "code": "+375",
+            "name": "Detroit"
+        },
+        {
+            "code": "+32",
+            "name": "Chicago"
+        },
+        {
+            "code": "+501",
+            "name": "Carolina"
+        },
+        {
+            "code": "+229",
+            "name": "Atlanta"
+        },
+        {
+            "code": "+1 441",
+            "name": "New Orleans"
+        },
+        {
+            "code": "+975",
+            "name": "Tampa Bay"
+        },
+        {
+            "code": "+591",
+            "name": "Arizona"
+        },
+        {
+            "code": "+387",
+            "name": "Seattle"
+        },
+        {
+            "code": "+267",
+            "name": "St. Louis"
+        },
+        {
+            "code": "+55",
+            "name": "San Francisco"
+        }
+    ]
+}
